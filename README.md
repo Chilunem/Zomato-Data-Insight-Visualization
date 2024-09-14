@@ -1,6 +1,8 @@
 # Zomato-Data-Insight-Visualization
 It was an independent project designed to showcase what I have learned through practicing calculated fields and other complicated features in Tableau. The purpose was to complete the Zomato onboarding project to showcase analytical skills to the mock company.
 
+Find this files tableau visualization on my Tableau public portfolio here - https://public.tableau.com/app/profile/jesse.michael/viz/ZOMATODATAVIZ/StoryPresentation
+
 an archived file of 5 separate Excel files from the mock company Zomato. I used 2 for this project.
 
 'Zomato data.zip': Compressed Excel files provided by team lead
